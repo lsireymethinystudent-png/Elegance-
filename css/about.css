@@ -12,7 +12,7 @@ body {
 .about-section {
     display: flex;
     align-items: center;
-    justify-content: 间-between;
+    justify-content: space-between;
     gap: 40px;
 }
 
